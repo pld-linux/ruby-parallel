@@ -1,12 +1,12 @@
 %define	pkgname	parallel
 Summary:	Parallel processing made simple and fast
 Name:		ruby-%{pkgname}
-Version:	0.7.1
+Version:	1.12.1
 Release:	1
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	c15647d9343231192613c2fc4ca56f6c
+# Source0-md5:	8d88001e0783da8b4bb33999efd4214e
 URL:		https://github.com/grosser/parallel
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
