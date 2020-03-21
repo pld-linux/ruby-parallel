@@ -2,7 +2,7 @@
 Summary:	Parallel processing made simple and fast
 Name:		ruby-%{pkgname}
 Version:	1.12.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
